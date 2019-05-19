@@ -1,11 +1,11 @@
 public class Hero{
 
 private String mName;
-private int mSize;
+private String mSize;
 private String mPersonal;
 private String mGroup;
 
-  public Hero(String name, Integer size, String personal, String group){
+  public Hero(String name, String size, String personal, String group){
 
 mName = name;
 mSize = size;
@@ -16,7 +16,7 @@ mGroup = group;
 public String getName(){
 return mName;
 }
-public int getSize(){
+public String getSize(){
 return mSize;
 }
 public String getPersonal(){

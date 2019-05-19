@@ -4,32 +4,32 @@ import static org.junit.Assert.*;
 public class HeroTest{
 
     @Test 
-    public void squad_instantiatesRightly_true() {
-        Squad squad = new squad("Your Name", "Size Of It", "Your Hero", "The Squad");
-        assertEquals(true, squad instanceof Squad);
+    public void hero_instantiatesRightly_true() {
+        Hero hero = new Hero("Your Name", "Size Of It", "Your Hero", "The Squad");
+        assertEquals(true, hero instanceof Hero);
     }
 
     @Test 
-    public void squad_instantiatesWithName_String() {
-        Squad squad = new squad("Your Name", "Size Of It", "Your Hero", "The Squad");
-        assertEquals("Your Name", squad.getName());
+    public void hero_instantiatesWithName_String() {
+        Hero hero = new Hero("Your Name", "Size Of It", "Your Hero", "The Squad");
+        assertEquals("Your Name", hero.getName());
     }
 
     @Test 
-    public void squad_instantiatesWithSize_Integer() {
-        Squad squad = new squad("Your Name", "Size Of It", "Your Hero", "The Squad");
-        assertEquals("Size Of It", squad.getSize());
+    public void hero_instantiatesWithSize_Integer() {
+        Hero hero = new hero("Your Name", "Size Of It", "Your Hero", "The Squad");
+        assertEquals("Size Of It", hero.getSize());
     }
 
     @Test 
-    public void squad_instantiatesWithLPersonal_String() {
-       Squad squad = new squad("Your Name", "Size Of It", "Your Hero", "The Squad");
-        assertEquals("Your Hero", squad.getPersonal());
+    public void hero_instantiatesWithLPersonal_String() {
+        Hero hero = new hero("Your Name", "Size Of It", "Your Hero", "The Squad");
+        assertEquals("Your Hero", hero.getPersonal());
     }
 
     @Test 
-    public void squad_instantiatesWithGroup_String() {
-        Squad squad = new squad("Your Name", "Size Of It", "Your Hero", "The Squad");
-        assertEquals( "The Squad", squad.getGroup());
+    public void hero_instantiatesWithGroup_String() {
+        Hero hero = new hero("Your Name", "Size Of It", "Your Hero", "The Squad");
+        assertEquals( "The Squad", hero.getGroup());
     }
 }
