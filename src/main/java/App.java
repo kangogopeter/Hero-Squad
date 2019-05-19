@@ -17,7 +17,7 @@ Map<String, Object> model = new HashMap<String, Object>();
  model.put("template", "templates/index.vtl");
             return new ModelAndView(model, layout);
         }, new VelocityTemplateEngine());
-post("/successfully done", (request, response) -> {
+post("/successfully", (request, response) -> {
             Map<String, Object> model = new HashMap<String, Object>();
 ArrayList<Hero>hero=request.session().attribute("hero");
 
@@ -34,10 +34,10 @@ ArrayList<Hero>hero=request.session().attribute("hero");
             hero.add(newHero);
             model.put("hero", request.session().attribute("Hero"));
             model.put("template","templates/success.vtl");
-            
+
             return new ModelAndView(model, layout);
         }, new VelocityTemplateEngine());
-    
+
     }
 
   }
