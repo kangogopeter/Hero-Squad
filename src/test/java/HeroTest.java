@@ -6,7 +6,7 @@ public class HeroTest{
     @Test
     public void hero_instantiatesCorrectly_true() {
         Hero hero = new Hero("Your Name", "Size Of It", "Your Hero", "The Squad");
-        assertEquals(true, true);
+        assertEquals(true, hero instanceof Hero);
     }
 
     @Test
