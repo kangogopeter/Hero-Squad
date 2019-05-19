@@ -1,0 +1,48 @@
+<h3 id="pet">Successfully done</h3>
+
+<strong>
+<button class="btn btn-danger">
+<a href="/"><i>Return To Menu</i></a>
+</button>
+</strong> 
+
+   #foreach($squad in squad)
+
+<div class="container">
+<div class="row">
+
+<div class="col-md-3>
+<u><h1>$squad.getName()</h1></u>
+<br>
+<hr>
+</div>
+
+<br>
+
+<div class="col-md-3>
+<u><h2>$squad.getSize()</h2></u>
+<br>
+<hr>
+</div>
+
+<br>
+
+<div class="col-md-3>
+<u><h3>$squad.getPersonal()</h3></u>
+<br>
+<hr>
+</div>
+
+<br>
+
+<div class="col-md-3>
+<u><h4>$squad.getGroup()</h4></u>
+<br>
+<hr>
+</div>
+
+<br>
+
+</div>
+</div>
+#end
