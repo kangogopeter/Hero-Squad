@@ -8,13 +8,15 @@ cd Documents && mkdir Hero-squad;
 git clone https://github.com/kangogopeter/Hero-Squad.git
 
 ##Technologies used:
-Java;
 
-IntelliJ;
+1.Java;
 
-Gradle;
+2.IntelliJ;
+
+3.Gradle;
 
 ##Behaviour Driven Development
+
 
                -----------------------------------------------------------------------|
                |                INPUT                      |       OUTPUT             |
@@ -27,14 +29,17 @@ Gradle;
                ------------------------------------------------------------------------
 
 ##How to test
+
 ..In the terminal
-gradle test
+~gradle test
 
 ##How to run
+
 ..In the terminal
-grdle run
+~gradle run
 
 ##How to build the cloned project
+
 ..In the terminal again
-gradle build
+~gradle build
 
