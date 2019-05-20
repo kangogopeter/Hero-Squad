@@ -25,5 +25,5 @@ dependencies {
 
 mainClassName = 'App'
 
-task stage(dependsOn: ['clean, installDist'])
+task stage(dependsOn: ['clean', 'installDist'])
 applicationName = "Hero-Squad"
