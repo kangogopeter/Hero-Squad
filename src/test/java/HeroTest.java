@@ -16,7 +16,7 @@ public class HeroTest{
     }
 
     @Test
-    public void hero_instantiatesWithSize_Integer() {
+    public void hero_instantiatesWithSize_String() {
         Hero hero = new Hero("Your Name", "Size Of It", "Your Hero", "The Squad");
         assertEquals("Size Of It", hero.getSize());
     }

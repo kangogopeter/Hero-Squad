@@ -6,7 +6,7 @@ plugins {
 apply plugin: 'java'
 apply plugin: 'application'
 
-group 'Hero'
+group 'Hero-Squad'
 version '1.0-SNAPSHOT'
 
 archivesBaseName = 'Hero-Squad'
@@ -26,5 +26,5 @@ dependencies {
 mainClassName = 'App'
 
 defaultTasks = ['clean']
-task stage(dependsOn: ['clean', 'installApp'])
-applicationName = 'Hero'
+task stage(dependsOn: ['clean, installApp'])
+applicationName = "Hero-Squad"

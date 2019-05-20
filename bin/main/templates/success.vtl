@@ -1,48 +1,48 @@
 <h3 id="pet">Successfully done</h3>
 
 <strong>
-<button class="btn btn-danger">
-<a href="/"><i>Return To Menu</i></a>
-</button>
-</strong> 
+    <button class="btn btn-danger">
+        <a href="/"><i>Return To Menu</i></a>
+    </button>
+</strong>
 
-   #foreach($hero in hero)
+#foreach($hero in hero)
 
 <div class="container">
-<div class="row">
+    <div class="row">
 
-<div class="col-md-3>
-<u><h1>$hero.getName()</h1></u>
-<br>
-<hr>
-</div>
+        <div class="col-md-3">
+            <u><h1>$hero.getName()</h1></u>
+            <br>
+            <hr>
+        </div>
 
-<br>
+        <br>
 
-<div class="col-md-3>
-<u><h2>$hero.getSize()</h2></u>
-<br>
-<hr>
-</div>
+        <div class="col-md-3">
+            <u><h2>$hero.getSize()</h2></u>
+            <br>
+            <hr>
+        </div>
 
-<br>
+        <br>
 
-<div class="col-md-3>
-<u><h3>$hero.getPersonal()</h3></u>
-<br>
-<hr>
-</div>
+        <div class="col-md-3">
+            <u><h3>$hero.getPersonal()</h3></u>
+            <br>
+            <hr>
+        </div>
 
-<br>
+        <br>
 
-<div class="col-md-3>
-<u><h4>$hero.getGroup()</h4></u>
-<br>
-<hr>
-</div>
+        <div class="col-md-3">
+            <u><h4>$hero.getGroup()</h4></u>
+            <br>
+            <hr>
+        </div>
 
-<br>
+        <br>
 
-</div>
+    </div>
 </div>
 #end
