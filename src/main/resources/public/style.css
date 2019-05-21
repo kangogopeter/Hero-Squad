@@ -1,7 +1,7 @@
 body{
     background-attachment: fixed;
-    background-image: url(/home/peter/IdeaProjects/miniApps/Hero-Squad/src/main/resources/public/fly.jpg);
-    background-color: lightblue;
+    background-image: url(/images/fly.jpg);
+    background-size: cover;
 }
 #btn{
     border-radius:12px; 
@@ -13,11 +13,6 @@ input{
 
 /*hovering*/
 
-body:hover{
-    background-attachment: fixed;
-    background-image: url(/home/peter/IdeaProjects/miniApps/Hero-Squad/src/main/resources/public/fort.jpg);
-    background-color: lightgreen;
-}
 #btn:hover{
     border-radius:24px;
     background-color: purple;
@@ -26,3 +21,118 @@ input:hover{
     border-radius: 50px;
     font-size: 34px;
     }
+
+    .bod{
+    background-image: url(/images/forti.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+    }
+
+    @media (min-width: 576px) {
+     auto;
+    }
+
+
+    @media (min-width: 768px) {
+     auto;
+      }
+
+
+    @media (min-width: 992px) {
+    auto;
+    }
+    .panel{
+    background-image: url(/images/gutt.jpg);
+    background-size: cover;
+    }
+
+
+    @media (min-width: 1200px) {
+    auto;
+    }
+
+    u{
+    color: cyan;
+    }
+
+   h1:hover{
+    color: black;
+    font-size: 40px;
+    }
+
+    h2:hover{
+    color: black;
+    font-size: 40px;
+    }
+
+    h3:hover{
+color: black;
+font-size: 40px;
+    }
+
+    h4:hover{
+color: black;
+fot-size: 40px;
+font-family:
+    }
+
+    h4:hover{
+color: black;
+font-size: 40px;
+font-style: AbrilFatface-Regular.ttf;
+    }
+label{
+color: blue;
+}
+.H{
+color: cyan;
+font-size: 25px;
+}
+p{
+color: green;
+}
+
+#dope{
+background-image: url(/images/gutt.jpg)
+}
+
+button{
+boder-radius: 28px;
+}
+
+img{
+border-radius: 12px;
+width: 7.5cm;
+height: 7.5cm;
+}
+
+#gut{
+background-color: grey;
+ background-size: cover;
+}
+#dot{
+background-size: cover;
+background-image: url(/images/fort.png)
+}
+
+#ls{
+color: white;
+text-align: center;
+}
+
+#got{
+background-color: grey;
+ background-size: cover;
+}
+
+#gat{
+background-color: grey;
+ background-size: cover;
+}
+
+
+#set{
+background-color: grey;
+ background-size: cover;
+}

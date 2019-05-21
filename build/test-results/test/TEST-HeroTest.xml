@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="HeroTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-05-20T09:20:30" hostname="peter-HP-EliteBook-8460p" time="0.004">
+<testsuite name="HeroTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-05-21T15:50:42" hostname="peter-HP-EliteBook-8460p" time="0.004">
   <properties/>
   <testcase name="hero_instantiatesCorrectly_true" classname="HeroTest" time="0.002"/>
   <testcase name="hero_instantiatesWithSize_String" classname="HeroTest" time="0.0"/>
