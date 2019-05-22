@@ -21,6 +21,12 @@ input:hover{
     border-radius: 50px;
     font-size: 34px;
     }
+    #obey{
+    font-size: 23px;
+    color: white;
+    font-family: url(/fonts/Allura/Allura-Regular.ttf);
+    font-family: url(/fonts/Allura/Allura-OFL.txt);
+    }
 
     .bod{
     background-image: url(/images/forti.jpg);
@@ -41,8 +47,6 @@ background-image: url(images/Girl.jpg)
     background-image: url(/images/gutt.jpg);
     background-size: cover;
     }
-
-
 
     u{
     color: cyan;
