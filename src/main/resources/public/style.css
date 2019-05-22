@@ -37,7 +37,13 @@ input:hover{
     @media (min-width: 768px) {
      auto;
       }
-
+i{
+color: white;
+font-size: 14px;
+}
+#dot{
+background-image: url(images/Girl.jpg)
+}
 
     @media (min-width: 992px) {
     auto;

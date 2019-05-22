@@ -1,18 +1,19 @@
 <h3 id="pet">Successfully done</h3>
 
+<div align="right" class="container">
+
+
 <strong>
     <button class="btn btn-danger">
         <a href="/"><i>Return To Menu</i></a>
     </button>
 </strong>
-
-#foreach($hero in hero)
+</div>
 
 <div class="container">
     <div class="row">
-
         <div class="col-md-3">
-            <u><h1>$hero.getName()</h1></u>
+            <u><h1>$Hero.getName()</h1></u>
             <br>
             <hr>
         </div>
@@ -20,7 +21,7 @@
         <br>
 
         <div class="col-md-3">
-            <u><h2>$hero.getSize()</h2></u>
+            <u><h2>$Hero.getSize()</h2></u>
             <br>
             <hr>
         </div>
@@ -28,7 +29,7 @@
         <br>
 
         <div class="col-md-3">
-            <u><h3>$hero.getPersonal()</h3></u>
+            <u><h3>$Hero.getPersonal()</h3></u>
             <br>
             <hr>
         </div>
@@ -36,7 +37,7 @@
         <br>
 
         <div class="col-md-3">
-            <u><h4>$hero.getGroup()</h4></u>
+            <u><h4>$Hero.getGroup()</h4></u>
             <br>
             <hr>
         </div>
@@ -45,4 +46,3 @@
 
     </div>
 </div>
-#end
