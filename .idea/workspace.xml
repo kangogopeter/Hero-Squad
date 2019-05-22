@@ -2,128 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="711227fb-ea98-45e6-b69a-11d3b7d8d3e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bin/main/VelocityTemplateEngine.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Abril_Fatface/AbrilFatface-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Abril_Fatface/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Acme/Acme-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Acme/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Akronim/Akronim-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Akronim/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Alegreya_Sans/AlegreyaSans-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Alegreya_Sans/AlegreyaSans-BlackItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Alegreya_Sans/AlegreyaSans-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Alegreya_Sans/AlegreyaSans-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Alegreya_Sans/AlegreyaSans-ExtraBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Alegreya_Sans/AlegreyaSans-ExtraBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Alegreya_Sans/AlegreyaSans-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Alegreya_Sans/AlegreyaSans-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Alegreya_Sans/AlegreyaSans-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Alegreya_Sans/AlegreyaSans-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Alegreya_Sans/AlegreyaSans-MediumItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Alegreya_Sans/AlegreyaSans-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Alegreya_Sans/AlegreyaSans-Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Alegreya_Sans/AlegreyaSans-ThinItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Alegreya_Sans/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Allerta_Stencil/AllertaStencil-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Allerta_Stencil/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Allura/Allura-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Allura/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Amatic_SC/AmaticSC-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Amatic_SC/AmaticSC-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Amatic_SC/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Antic_Slab/AnticSlab-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Antic_Slab/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Architects_Daughter/ArchitectsDaughter-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Architects_Daughter/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Audiowide/Audiowide-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Audiowide/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Bad_Script/BadScript-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Bad_Script/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Bangers/Bangers-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Bangers/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Cantarell/Cantarell-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Cantarell/Cantarell-BoldOblique.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Cantarell/Cantarell-Oblique.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Cantarell/Cantarell-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Cantarell/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Cardo/Cardo-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Cardo/Cardo-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Cardo/Cardo-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Cardo/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Caveat/Caveat-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Caveat/Caveat-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Caveat/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Cinzel/Cinzel-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Cinzel/Cinzel-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Cinzel/Cinzel-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Cinzel/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Comfortaa/Comfortaa[wght].ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Comfortaa/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Cookie/Cookie-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Cookie/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Cormorant_Garamond/CormorantGaramond-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Cormorant_Garamond/CormorantGaramond-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Cormorant_Garamond/CormorantGaramond-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Cormorant_Garamond/CormorantGaramond-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Cormorant_Garamond/CormorantGaramond-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Cormorant_Garamond/CormorantGaramond-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Cormorant_Garamond/CormorantGaramond-MediumItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Cormorant_Garamond/CormorantGaramond-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Cormorant_Garamond/CormorantGaramond-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Cormorant_Garamond/CormorantGaramond-SemiBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/fonts/Cormorant_Garamond/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/images/by.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/images/fly.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/images/fort.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/images/forti.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/images/gutt.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/images/sky.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/images/so.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/images/spheric.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/vid/boon.webm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/public/vid/war.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/templates/form.vtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/templates/hero.vtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/templates/index.vtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/templates/layout.vtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/resources/main/public/images/Girl.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/public/images/Girl.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/main/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/main/templates/success.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/templates/success.vtl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/spark/template/velocity/VelocityTemplateEngine.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/VelocityTemplateEngine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/distributions/Hero-Squad-1.0-SNAPSHOT.tar" beforeDir="false" afterPath="$PROJECT_DIR$/build/distributions/Hero-Squad-1.0-SNAPSHOT.tar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/distributions/Hero-Squad-1.0-SNAPSHOT.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/distributions/Hero-Squad-1.0-SNAPSHOT.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/Hero-Squad-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/Hero-Squad-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/HeroTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/HeroTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/public/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/form.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/form.vtl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/hero.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/hero.vtl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/index.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/index.vtl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/layout.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/layout.vtl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/success.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/success.vtl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-HeroTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-HeroTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/VelocityTemplateEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/VelocityTemplateEngine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/public/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/public/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/form.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/form.vtl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/hero.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/hero.vtl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.vtl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/layout.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/layout.vtl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/success.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/success.vtl" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -156,11 +35,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="277">
-              <caret line="52" column="34" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
+              <caret line="52" column="17" lean-forward="true" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -169,10 +48,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/hero.vtl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.vtl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="426">
+              <caret line="37" column="7" lean-forward="true" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -186,11 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/success.vtl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="46" column="12" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
+            <state relative-caret-position="2">
+              <caret line="51" column="6" lean-forward="true" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -248,13 +136,13 @@
         <option value="$PROJECT_DIR$/src/gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/VelocityTemplateEngine.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/index.vtl" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/form.vtl" />
         <option value="$PROJECT_DIR$/src/main/resources/public/style.css" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/layout.vtl" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/hero.vtl" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/success.vtl" />
         <option value="$PROJECT_DIR$/src/main/java/App.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/index.vtl" />
       </list>
     </option>
   </component>
@@ -506,7 +394,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49924242" visible="true" weight="0.17263843" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49924242" visible="true" weight="0.9071661" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007576" side_tool="true" weight="0.94299674" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -608,20 +496,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.vtl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/layout.vtl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/HeroTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -638,17 +512,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/hero.vtl">
+    <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        <state relative-caret-position="277">
+          <caret line="52" column="17" lean-forward="true" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/success.vtl">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/layout.vtl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="46" column="12" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -669,13 +546,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/hero.vtl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="52" column="34" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.vtl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="37" column="7" lean-forward="true" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/success.vtl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2">
+          <caret line="51" column="6" lean-forward="true" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
         </state>
       </provider>
     </entry>

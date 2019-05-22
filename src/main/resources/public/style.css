@@ -29,14 +29,6 @@ input:hover{
     text-align: center;
     }
 
-    @media (min-width: 576px) {
-     auto;
-    }
-
-
-    @media (min-width: 768px) {
-     auto;
-      }
 i{
 color: white;
 font-size: 14px;
@@ -45,18 +37,12 @@ font-size: 14px;
 background-image: url(images/Girl.jpg)
 }
 
-    @media (min-width: 992px) {
-    auto;
-    }
     .panel{
     background-image: url(/images/gutt.jpg);
     background-size: cover;
     }
 
 
-    @media (min-width: 1200px) {
-    auto;
-    }
 
     u{
     color: cyan;
@@ -86,7 +72,7 @@ font-family:
     h4:hover{
 color: black;
 font-size: 40px;
-font-style: AbrilFatface-Regular.ttf;
+font-style: italic;
     }
 label{
 color: blue;
